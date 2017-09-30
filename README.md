@@ -1,6 +1,6 @@
 # smgi-web
 
-The future of smgi.
+The home of smgi.
 
 # Purpose of this repository
 
