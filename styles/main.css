@@ -78,6 +78,7 @@ i:hover .tooltip {
     opacity: 0;
     background-color: #DDD;
     color: #252525;
+    font-family: 'Lato', sans-serif;
     border-radius: 5px 5px 5px 5px;
     white-space: nowrap;
     transition: opacity 0.2s ease-out;
